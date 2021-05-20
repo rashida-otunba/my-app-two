@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app-two/static/css/main.6f817a2a.chunk.css",
+    "main.js": "/my-app-two/static/js/main.57b341eb.chunk.js",
+    "main.js.map": "/my-app-two/static/js/main.57b341eb.chunk.js.map",
+    "runtime-main.js": "/my-app-two/static/js/runtime-main.57b0dc02.js",
+    "runtime-main.js.map": "/my-app-two/static/js/runtime-main.57b0dc02.js.map",
+    "static/js/2.7bb7a8b3.chunk.js": "/my-app-two/static/js/2.7bb7a8b3.chunk.js",
+    "static/js/2.7bb7a8b3.chunk.js.map": "/my-app-two/static/js/2.7bb7a8b3.chunk.js.map",
+    "static/js/3.1feb57c2.chunk.js": "/my-app-two/static/js/3.1feb57c2.chunk.js",
+    "static/js/3.1feb57c2.chunk.js.map": "/my-app-two/static/js/3.1feb57c2.chunk.js.map",
+    "index.html": "/my-app-two/index.html",
+    "static/css/main.6f817a2a.chunk.css.map": "/my-app-two/static/css/main.6f817a2a.chunk.css.map",
+    "static/js/2.7bb7a8b3.chunk.js.LICENSE.txt": "/my-app-two/static/js/2.7bb7a8b3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/my-app-two/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57b0dc02.js",
+    "static/js/2.7bb7a8b3.chunk.js",
+    "static/css/main.6f817a2a.chunk.css",
+    "static/js/main.57b341eb.chunk.js"
+  ]
+}
