@@ -1,6 +1,6 @@
 {
   "name": "assignment-onereact",
-  "homepage": "http://rashida-otunba.github.io/first-react-app",
+  "homepage": "http://rashida-otunba.github.io/my-app-two",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
